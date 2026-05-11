@@ -9,7 +9,7 @@ Original file is located at
 
 import pandas as pd
 import numpy as np
-df = pd.read_csv('fraud_dirty.csv')
+df = pd.read_csv('fraud_dirty(1).csv')
 
 df.isnull().sum()
 
